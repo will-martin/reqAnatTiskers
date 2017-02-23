@@ -1,0 +1,13 @@
+- 2/23/17 ::: zookeeper znapshot
+                find leader, make ensemble quiescent, dump nodes to json
+                what is the meaning of ephemeral nodes in a znapshot
+- 2/23/17 ::: zookeeper znapshot restore
+                    show manifest
+                    prompt for date conflicts
+                    prompt for new files
+                    prompt for overwrites.
+- 2/23/17 ::: uService - status router
+- 2/23/17 ::: uService - status notifier
+- 2/23/17 ::: uService - BIRules Engine
+- 2/23/17 ::: uService - BIRulesEngineController
+
