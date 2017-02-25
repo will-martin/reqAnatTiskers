@@ -9,5 +9,8 @@
 - 2/23/17 ::: uService - status router
 - 2/23/17 ::: uService - status notifier
 - 2/23/17 ::: uService - BIRules Engine
+                         * this engine ingests and responds
 - 2/23/17 ::: uService - BIRulesEngineController
+                         * this controller encodes/recognizes/decodes/combinatoricalAlgol
+                         
 
